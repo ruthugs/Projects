@@ -1,3 +1,5 @@
+## Identification of genes related to migraine
+
 ## Project Overview
 
 This project focuses on identifying genes or genetic markers related to migraine susceptibility. The goal is to investigate genetic variants, such as Single Nucleotide Polymorphisms (SNPs), associated with migraines to uncover potential genetic determinants that may lead to better diagnosis and personalized treatment.
